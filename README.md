@@ -11,3 +11,11 @@ should be considered when creating a README.md document for open-source projects
 # Links and Resources used 
 https://www.makeareadme.com/#suggestions-for-a-good-readme
 <p>https://www.theodinproject.com</p>
+
+# License
+
+This curriculum is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+It basically means you can do whatever you want with the material as long as it's for non-commercial use but you've got to attribute the original author (Erik Trautman) and share any derivative works under the same license.
+
+If you're interested in using the curriculum for commercial purposes or otherwise licensing material, feel free to get in touch at theodinprojectcontact@gmail.com.
